@@ -1,2 +1,2 @@
-projet_titre = "Titre du projet 1";
-youtube_id = "K4cdHKVnU8o"
+projet_titre = "Shine";
+youtube_id = "M7OG54MdCNk"
